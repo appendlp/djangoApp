@@ -1,0 +1,6 @@
+db.sqlite3
+gunicorn-error.log
+gunicorn.log
+nginx-access.log
+nginx-error.log
+
